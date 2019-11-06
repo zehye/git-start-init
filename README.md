@@ -14,13 +14,13 @@ This repo will terminated soon..
 
 ### My favorite
 
-1.Sandwitch
-2.hamburger
-3.bi-bim-bob
+1. Sandwitch
+2. hamburger
+3. bi-bim-bob
 
 ### how to start python
 
-Just type `print('hello world!')
+Just type `print('hello world!')`
 
 ```python
 for i in range(6):
